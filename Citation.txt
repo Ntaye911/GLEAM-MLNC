@@ -1,0 +1,6 @@
+@article{ntaye2024gleam,
+  title={Graph-Structured Latent Embedding with Adaptive Similarity Learning for Robust Multi-Label Classification},
+  author={Ntaye, Emmanuel and Shen, Xiang-Jun and Li, Ying and Liu, Zhifeng and Zhou, Conghua and Fan, Jianping},
+  journal={Neurocomputing},
+  year={2024}
+}

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets (Optional: Uncomment if datasets are too large for GitHub)
+# datasets/*.arff
+# datasets/*.csv
+# datasets/*.mat
+
+# Outputs
+results/
+*.pdf
+*.png
